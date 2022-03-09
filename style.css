@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to right, #7b68e5, rgba(238, 0, 238, 0.4), #290b96);
+    
+}
+.container {
+    margin: 0 auto;
+font-size: 40px;
+text-align: center;
+}
+span {
+    font-size: 80px;
+}
+button {
+    font-size: 28px;
+    cursor: pointer;
+    background-color: aqua;
+    border-radius: 14px;
+    padding: 7px;
+}
+button:hover {
+    background-color: blue;
+}
